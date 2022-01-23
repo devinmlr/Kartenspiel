@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Kartenspiel
+comment1.params=
+comment1.target=Kartenspiel()
+comment2.params=
+comment2.target=void\ mischen()
+comment3.params=farbe\ bild
+comment3.target=boolean\ vorhanden(java.lang.String,\ java.lang.String)
+comment4.params=farbe
+comment4.target=void\ aussortieren(java.lang.String)
+numComments=5

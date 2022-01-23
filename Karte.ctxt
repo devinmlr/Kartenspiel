@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Karte
+comment1.params=
+comment1.target=Karte()
+comment2.params=farbe\ bild
+comment2.target=Karte(java.lang.String,\ java.lang.String)
+comment3.params=farbe
+comment3.target=void\ setFarbe(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ gibFarbe()
+comment5.params=
+comment5.target=java.lang.String\ gibBild()
+numComments=6
